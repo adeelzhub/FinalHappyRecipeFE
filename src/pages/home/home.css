@@ -1,0 +1,13 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+    
+}
+
+.backg{
+    background-color:  whitesmoke;
+}
+
+.topbar{
+    position: sticky;
+}
